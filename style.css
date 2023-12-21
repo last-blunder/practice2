@@ -1,0 +1,22 @@
+
+
+h1{
+    font-family:'Courier New', Courier, monospace;
+    
+}
+html{
+    background-color:#7BD3EA;
+}
+header{
+    background-color: #A1EEBD;
+    text-align: center;
+}
+body{
+    background-color: #F6F7C4;
+}
+.yellow{
+    background-color: #F6D6D6;
+}
+#pic{
+    text-align: center;
+}
